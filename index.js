@@ -1,0 +1,1 @@
+const kinio=10
